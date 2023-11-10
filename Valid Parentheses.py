@@ -18,7 +18,7 @@ class Solution:
 ########### A bit faster ###########
 from collections import deque
 
-# 3 ACTIONS: append, return False, pop
+# 3 ACTIONS: append, return False, pop (Left parenthese)
 
 class Solution:
     def isValid(self, s: str) -> bool:
