@@ -18,6 +18,8 @@ class Solution:
 ########### A bit faster ###########
 from collections import deque
 
+# 3 ACTIONS: append, return False, pop
+
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = deque()
