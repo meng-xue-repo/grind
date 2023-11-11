@@ -8,7 +8,8 @@ class Solution:
 
         res = 0
         for i in range(len(prices) - 1):
-            if maxVal[i + 1] - prices[i] > res:
-                res = maxVal[i + 1] - prices[i]
+            diff = maxVal[i + 1] - prices[i]
+            if diff > res:
+                res = diff
 
         return res
