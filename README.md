@@ -2,7 +2,7 @@
 
 |   | question | difficulty | time | topic | done |
 |---|----------|------------|------|-------|------|
-| **Week 1** |
+| **Week-1** |
 |1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | 15 mins | Array | ✓ |
 |2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | 20 mins | Stack | ✓ |
 |3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | 20 mins | Linked List | ✓ |
@@ -16,7 +16,7 @@
 |11 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 15 mins | Binary Tree |
 |12 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | 20 mins | Linked List |
 |13 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 20 mins | Stack |
-| **Week 2** |
+| **Week-2** |
 |1 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | 20 mins | Binary Search |
 |2 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | 15 mins | Hash Table |
 |3 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | 20 mins | Dynamic Programming |
@@ -29,7 +29,7 @@
 |10 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | 15 mins | Binary Tree |
 |11 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | 15 mins | Array |
 |12 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | 20 mins | Dynamic Programming |
-| **Week 3** |
+| **Week-3** |
 |1 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Medium | 25 mins | Array |
 |2 | [01 Matrix](https://leetcode.com/problems/01-matrix) | Medium | 30 mins | Graph |
 |3 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | 30 mins | Heap |
@@ -38,7 +38,7 @@
 |6 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium | 20 mins | Binary Tree |
 |7 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | 25 mins | Graph |
 |8 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | 30 mins | Stack |
-| **Week 4** |
+| **Week-4** |
 |1 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | 30 mins | Graph |
 |2 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium | 35 mins | Trie |
 |3 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium | 25 mins | Dynamic Programming |
@@ -47,7 +47,7 @@
 |6 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | 20 mins | Binary Search Tree |
 |7 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | 25 mins | Graph |
 |8 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | 30 mins | Graph |
-| **Week 5** |
+| **Week-5** |
 |1 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | 30 mins | Binary Search |
 |2 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium | 30 mins | Array |
 |3 | [Permutations](https://leetcode.com/problems/permutations) | Medium | 30 mins | Recursion |
@@ -56,7 +56,7 @@
 |6 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | Medium | 35 mins | Binary Search |
 |7 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | 30 mins | Graph |
 |8 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | 25 mins | Array |
-| **Week 6** |
+| **Week-6** |
 |1 | [Word Break](https://leetcode.com/problems/word-break) | Medium | 30 mins | Trie |
 |2 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | 30 mins | Dynamic Programming |
 |3 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | 25 mins | String |
@@ -66,7 +66,7 @@
 |7 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | 25 mins | String |
 |8 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | 20 mins | Dynamic Programming |
 |9 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium | 25 mins | Binary Tree |
-| **Week 7** |
+| **Week-7** |
 |1 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | 35 mins | Array |
 |2 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | 30 mins | Recursion |
 |3 | [Word Search](https://leetcode.com/problems/word-search) | Medium | 30 mins | Graph |
@@ -74,7 +74,7 @@
 |5 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | Medium | 30 mins | Graph |
 |6 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | 35 mins | Heap |
 |7 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium | 30 mins | Linked List |
-| **Week 8** |
+| **Week-8** |
 |1 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | 25 mins | Binary Search Tree |
 |2 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | 30 mins | String |
 |3 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | 40 mins | Binary Tree |
