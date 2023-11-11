@@ -1,7 +1,7 @@
 # [Grind 75](https://www.techinterviewhandbook.org/grind75#)
 
-|   | problem | difficulty | time | topic | |
-|---|---------|------------|------|-------|-|
+|   | problem | difficulty | time | topic | done |
+|---|---------|------------|------|-------|------|
 | **Week 1** |
 |1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | 15 mins | Array | ✓ |
 |2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | 20 mins | Stack | ✓ |
