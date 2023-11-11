@@ -19,3 +19,6 @@ class Solution:
             freq[index_t] -= 1
 
         return all(i == 0 for i in freq)
+
+        
+######### Count occurrences of characters #########
