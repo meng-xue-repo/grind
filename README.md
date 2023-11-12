@@ -11,7 +11,7 @@
 |6 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | 15 mins | Binary Tree | ✓ |
 |7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | 15 mins | String | ✓ |
 |8 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | 15 mins | Binary Search | ✓ |
-|9 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | 20 mins | Graph |
+|9 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | 20 mins | Graph | ✓ |
 |10 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Easy | 20 mins | Binary Search Tree |
 |11 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 15 mins | Binary Tree |
 |12 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | 20 mins | Linked List |
