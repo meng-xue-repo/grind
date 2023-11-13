@@ -8,6 +8,7 @@
 '''
 According to ChatGpt, if a class does not define custom __hash__ and __eq__ methods, the default hash value and equality check is based on object's IDENTITY (Memory Address).
 When you want to consider objects equal based on their CONTENT rather than their identity, it's recommended to define custom __hash__ and __eq__
+More space? Maybe not, only store memory adresses
 '''
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
@@ -21,7 +22,7 @@ class Solution:
         return node in visited
 
 
-########## Two pointers solution (Save space) ##########
+########## Two pointers solution (less space) ##########
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
 
