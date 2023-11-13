@@ -21,7 +21,7 @@ class Solution:
         return node in visited
 
 
-########## Two pointers solution ##########
+########## Two pointers solution (Save space) ##########
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
 
