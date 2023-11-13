@@ -19,3 +19,19 @@ class Solution:
             node = node.next
 
         return node in visited
+
+
+########## Two pointers solution ##########
+class Solution:
+    def hasCycle(self, head: Optional[ListNode]) -> bool:
+
+        fast = slow = head
+
+        while fast and slow and slow.next:
+            fast = fast.next
+            slow = slow.next.next
+
+            if fast == slow:
+                return True
+
+        return False
