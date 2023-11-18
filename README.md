@@ -15,7 +15,7 @@
 |10 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Easy | 20 mins | Binary Search Tree | ✓ |
 |11 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 15 mins | Binary Tree | ✓ |
 |12 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | 20 mins | Linked List | ✓ |
-|13 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 20 mins | Stack |
+|13 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 20 mins | Stack | ✓ |
 | **Week-2** |
 |01 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | 20 mins | Binary Search |
 |02 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | 15 mins | Hash Table |
